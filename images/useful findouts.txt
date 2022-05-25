@@ -1,2 +1,0 @@
-https://stackoverflow.com/questions/57249273/how-to-detect-paragraphs-in-a-text-document-image-for-a-non-consistent-text-stru
-https://towardsdatascience.com/pre-processing-in-ocr-fc231c6035a7
